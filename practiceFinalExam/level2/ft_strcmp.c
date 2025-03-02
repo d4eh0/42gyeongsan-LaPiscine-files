@@ -1,0 +1,36 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strcmp.c                                        :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: daepark <marvin@42.fr>                     +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2025/01/28 03:03:41 by daepark           #+#    #+#             */
+/*   Updated: 2025/01/28 03:03:52 by daepark          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+int	ft_strcmp(char *s1, char *s2)
+{
+	while (*s1 == *s2 && *s1 && *s2)
+	{
+		s1++;
+		s2++;
+	}
+	return ((unsigned char)*s1 - (unsigned char)*s2);
+}
+/*
+#ifdef TEST
+
+#include <stdio.h>
+
+int	main(void)
+{
+	char	*s1 = "";
+	char	*s2 = "hello";
+	
+	printf("%d", ft_strcmp(s1, s2));
+}
+
+#endif
+*/
