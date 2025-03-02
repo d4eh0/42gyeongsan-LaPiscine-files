@@ -23,4 +23,4 @@ Project|Language|Status|Percentage|
 |Exam 01|C|🔴|10%|
 |Exam 02|C|🟢|80%|
 |Exam 03|C|🟢|90%|
-|Exam Final|C|🟢|84%|
+|Exam Final|C|🟢|<span style="color:green; font-weight: bold;">84%</span>
