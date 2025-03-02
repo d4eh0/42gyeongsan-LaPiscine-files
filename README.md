@@ -1,6 +1,6 @@
 # 42gyeongsan-LaPiscine
 
-3기 1차 : 25/01/20 ~ 25/02/14
+**3기 1차** : 25/01/20 ~ 25/02/14
 
 Project|Language|Status|Percentage|
 |:---:|:---:|:---:|---:|
@@ -18,10 +18,11 @@ Project|Language|Status|Percentage|
 |C 09|C|🟢|100%|
 |C 10|C|🟠|0%|
 |C 11|C|🟢|100%|
+||---||
 |Rush 00|C|🟢|120%|
 |Rush 01|C|🟢|105%|
+||---||
 |Exam 01|C|🔴|10%|
 |Exam 02|C|🟢|80%|
 |Exam 03|C|🟢|90%|
-|Exam Final|C|🟢|**84%**|
-|테스트1|<span style="color:red">강조3</span>|테스트3|
+|Exam Final|C|🟢|<span style="color:yellowgreen; font-weight:bold;"> yellowgreen </span>|
