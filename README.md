@@ -3,7 +3,7 @@
 3기 1차 : 25/01/20 ~ 25/02/14
 
 Project|Language|Status|Percentage|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|---:|
 |Shell00|Shell|🟢|100%|
 |Shell00|Shell|🟢|100%|
 |C 00|C|🟢|100%|
@@ -23,4 +23,5 @@ Project|Language|Status|Percentage|
 |Exam 01|C|🔴|10%|
 |Exam 02|C|🟢|80%|
 |Exam 03|C|🟢|90%|
-|Exam Final|C|🟢|<span style="color:green">84%</span>|
+|Exam Final|C|🟢|**84%**|
+|테스트1|<span style="color:red">강조3</span>|테스트3|
